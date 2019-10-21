@@ -250,8 +250,11 @@ section {
 #skills {
     background: #fff url(../images/globe.jpg) no-repeat center center;
     height: auto;
+    text-shadow: 2px 2px #111111;
 }
-
+#about{
+    text-shadow: 2px 2px #111111;
+}
 
 /* 05. Footer
  * =================================================================== */
