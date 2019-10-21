@@ -91,6 +91,7 @@
     text-align: center;
     color: #fff;
     display:table;
+    text-shadow: 2px 2px #111111;
  }
 
  .img-overlay {
